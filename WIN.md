@@ -1,4 +1,4 @@
-= Useful Shortcut =
+#Useful Shortcut 
 win + x
  - hdwwiz.cpl   device manager (devmgmt.msc)
  - ncpa.cpl     network connection
